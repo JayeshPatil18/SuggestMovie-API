@@ -1,4 +1,7 @@
 flask
 numpy
-sklearn
+scikit-learn
 gunicorn
+requests
+pandas
+flask_cors
